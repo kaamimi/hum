@@ -16,20 +16,13 @@ Built with ❤️ using [Flutter](https://flutter.dev/).
 
 ## 📸 Screenshots
 
-**Home Screen**
-A clean, minimal launch view optimized for quick interaction.
-![Home Screen](screenshots/home.png)
-
-
-**Capture Entry**
-Easily snap a photo or video, and add a short note or tag.
-![Capture Entry](screenshots/capture.png)
-
-
-**Timeline View**
-Scroll through your past entries in a visual timeline.
-![Timeline View](screenshots/timeline.png)
-
+<p align="center">
+  <img width="300" alt="Screenshot_1754364298" src="https://github.com/user-attachments/assets/657feb8c-664f-4cca-9553-c93d35ee4870" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="300" alt="Screenshot_1754364183" src="https://github.com/user-attachments/assets/d4dd8b2c-6cd8-4482-ae63-72f7285a5236" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="300" alt="Screenshot_1754364304" src="https://github.com/user-attachments/assets/3a8f2d3b-1e1a-49e3-b377-52ce74444b87" />
+</p>
 
 ## 📁 Project Structure
 
@@ -61,3 +54,4 @@ cd hum
 flutter pub get
 flutter run
 ```
+
