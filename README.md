@@ -31,9 +31,9 @@ lib/
 ├── core/               # Reusable utilities (e.g., constants, extensions)
 ├── data/               # Storage, repositories, data sources
 ├── models/             # Data models
-├── providers/          # State management (e.g., Riverpod, Provider)
+├── providers/          # State management
 ├── views/              # UI screens and components
-├── app.dart            # App-level config (routes, themes, etc.)
+├── app.dart            # App-level config
 └── main.dart           # Entry point
 ```
 
@@ -54,4 +54,3 @@ cd hum
 flutter pub get
 flutter run
 ```
-
